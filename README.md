@@ -60,7 +60,7 @@
 
 [website]: https://atiwalkers.com.mx
 [twitter]: https://twitter.com/WofyRaven
-[youtube]: https://youtube.com/UCWCIPpdGpeND_W44NVxJl6g
+[youtube]: https://youtube.com/channel/UCWCIPpdGpeND_W44NVxJl6g
 [instagram]: https://instagram.com/ati_walkers
 [linkedin]: https://linkedin.com/in/adrian-manzano-0236241a1
 [webdevplaylist]: https://www.youtube.com/playlist?list=
