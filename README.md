@@ -35,6 +35,10 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://atiwalkers.com.mx
 [twitter]: https://twitter.com/WofyRaven
 [youtube]: https://youtube.com/UCWCIPpdGpeND_W44NVxJl6g
