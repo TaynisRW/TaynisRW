@@ -52,7 +52,6 @@
 
 <img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=radical">
 
----
 
 <img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=radical">
 
@@ -67,4 +66,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=
 [cssplaylist]: https://www.youtube.com/playlist?list=
 [reactplaylist]: https://www.youtube.com/playlist?list=
-© 2020 
+### © 2020 
