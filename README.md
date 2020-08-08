@@ -50,7 +50,13 @@
 
 ---
 
+<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=radical">
+
+---
+
 <img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=radical">
+
+---
 
 [website]: https://atiwalkers.com.mx
 [twitter]: https://twitter.com/WofyRaven
