@@ -52,10 +52,10 @@
 
 ---
 
-<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight">
+<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues">
 
 
-<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=radical&layout=compact">
+<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
 
 ---
 
