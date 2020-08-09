@@ -1,4 +1,4 @@
-?[](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
+![](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
 ### Hi there, I'm Adrián Manzano - aka [TaynisRW][website] 👋
 
 ## I'm a Gamer, Developer and Teacher!
