@@ -42,6 +42,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
+[<img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />][webdevplaylist]
 
 <br />
 
