@@ -36,13 +36,11 @@
 [<img align="left" alt="JSON" width="26px" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />][webdevplaylist]
 [<img align="left" alt="CodeIgniter" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />][webdevplaylist]
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
-[<img align="left" alt="SEO" width="26px" src="https://www.practicepanther.com/wp-content/uploads/2014/09/SEO-Tips-for-Lawyers1.png" />][webdevplaylist]
 
 <br />
 <br />
 
 ---
-<br />
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
