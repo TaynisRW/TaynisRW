@@ -39,6 +39,7 @@
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
 [<img align="left" alt="SEO" width="26px" src="https://www.practicepanther.com/wp-content/uploads/2014/09/SEO-Tips-for-Lawyers1.png" />][webdevplaylist]
 <br />
+<br />
 
 ---
 
