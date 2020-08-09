@@ -67,6 +67,4 @@
 [webdevplaylist]: https://www.youtube.com/playlist?list=
 [jsplaylist]: https://www.youtube.com/playlist?list=
 [cssplaylist]: https://www.youtube.com/playlist?list=
-[reactplaylist]: https://www.youtube.com/playlist?list=
-<br /><br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br />© 2020 
+[reactplaylist]: https://www.youtube.com/playlist?list= 
