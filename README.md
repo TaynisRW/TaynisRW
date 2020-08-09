@@ -27,7 +27,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://lh3.googleusercontent.com/proxy/hMMV-4o0mHFuGvkDAE3_u0ZZmw8HpzacvMU4xEDlb5mTHlManYKgYYHPg1fFZAPNNitomc6FMFhDYhtUQw0cC-lgxps9vGgDJx8rI7Ro_TB6PFp5igs" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
@@ -38,8 +37,7 @@
 [<img align="left" alt="CodeIgniter" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />][webdevplaylist]
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
 [<img align="left" alt="SEO" width="26px" src="https://www.practicepanther.com/wp-content/uploads/2014/09/SEO-Tips-for-Lawyers1.png" />][webdevplaylist]
-<br />
-<br />
+
 <br />
 <br />
 
