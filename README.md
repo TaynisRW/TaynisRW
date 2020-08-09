@@ -51,10 +51,8 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">
-
-<img align="right" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
+[<img align="left" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">]
+[<img align="right" alt="ATI Walkers GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">] 
 
 [website]: https://atiwalkers.com.mx
 [twitter]: https://twitter.com/WofyRaven
