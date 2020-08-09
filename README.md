@@ -1,5 +1,5 @@
 # Hi there, I'm Adrián Manzano - aka [TaynisRW][website] 👋
-![](https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif)
+![](https://i.pinimg.com/originals/3d/80/64/3d8064758e54ec662e076b6ca54aa90e.gif)
 
 ## I'm a Gamer, Developer and Teacher!
 - 🔭 I’m currently working on a [Web Development Course][website]!
