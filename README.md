@@ -34,7 +34,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="jQuery" width="26px" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />][webdevplaylist]
-[<img align="left" alt="jQuery" width="26px" src="https://programacion.net/files/article/article_01945_.png" />][webdevplaylist]
+[<img align="left" alt="Ajax" width="26px" src="https://proyectosinformaticatnl.ceti.mx/behelo-programacion/img/16.png" />][webdevplaylist]
 
 <br />
 <br />
