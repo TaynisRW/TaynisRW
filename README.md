@@ -36,14 +36,13 @@
 
 ---
 
-### Tools:
+### Tools
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="CodeIgniter" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />][webdevplaylist]
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
 
-<br />
 <br />
 
 ---
