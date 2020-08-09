@@ -68,5 +68,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=
 [cssplaylist]: https://www.youtube.com/playlist?list=
 [reactplaylist]: https://www.youtube.com/playlist?list=
-<br />
-© 2020 
+<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />© 2020 
