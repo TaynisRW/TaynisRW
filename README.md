@@ -32,6 +32,8 @@
 [<img align="left" alt="Ajax" width="26px" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />][webdevplaylist]
 [<img align="left" alt="JSON" width="26px" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />][webdevplaylist]
 
+<br />
+
 ---
 
 ### Tools:
