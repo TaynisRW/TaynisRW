@@ -26,7 +26,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://lh3.googleusercontent.com/proxy/ZaHW4vqlKHxF-EonMi_g6HtRPDNk9_Y6b34aCl6w0W8ZoUCiY-LKjDEeg87c4clxCgHGBVphy7klEEANhV56a9FAuzMkrrotc7i1yg6nNEZmH1GRGgY" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="jQuery" width="26px" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />][webdevplaylist]
 [<img align="left" alt="Ajax" width="26px" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />][webdevplaylist]
