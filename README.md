@@ -26,7 +26,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://lh3.googleusercontent.com/proxy/hMMV-4o0mHFuGvkDAE3_u0ZZmw8HpzacvMU4xEDlb5mTHlManYKgYYHPg1fFZAPNNitomc6FMFhDYhtUQw0cC-lgxps9vGgDJx8rI7Ro_TB6PFp5igs" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="26px" src="https://lh3.googleusercontent.com/proxy/ZaHW4vqlKHxF-EonMi_g6HtRPDNk9_Y6b34aCl6w0W8ZoUCiY-LKjDEeg87c4clxCgHGBVphy7klEEANhV56a9FAuzMkrrotc7i1yg6nNEZmH1GRGgY" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="jQuery" width="26px" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />][webdevplaylist]
 [<img align="left" alt="Ajax" width="26px" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />][webdevplaylist]
@@ -43,7 +43,7 @@
 [<img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
 [<img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />][webdevplaylist]
-[<img align="left" alt="Xampp" width="26px" src="https://lh3.googleusercontent.com/proxy/WLdUVdcjUpULBiAtz5AcUf2OM8yCWYpd10NHMdjvg58lgMSxGga0aiLbkms2BwCJ-GK_kcExpeIhDqLg-_yAX4hxUKNAY98NU7Nfb0n0y37FQT0k-SI" />][webdevplaylist]
+[<img align="left" alt="Xampp" width="26px" src="https://lh3.googleusercontent.com/proxy/EeUpJfDd8dx0VxIv1jTqlbJ-i-W-ULBo8r9IZ87gxxEhuoJ3PKEwu-KWJ67V2tslniqRaXOdTWBvKxaQqQaL7MYQT8s2uZw2HexQDWnyUgc_tcv8Yyg" />][webdevplaylist]
 [<img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />][webdevplaylist]
 
 <br />
