@@ -62,8 +62,8 @@
 
 ---
 
-<img align="left" alt="ATI Walkers GitHub Stats" width="410px" src="https://github-readme-stats.vercel.app/api?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">
-<img align="right" alt="ATI Walkers GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayWolf&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
+<img align="left" alt="ATI Walkers GitHub Stats" width="410px" src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">
+<img align="right" alt="ATI Walkers GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
 
 
 [website]: https://atiwalkers.com.mx
