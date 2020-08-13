@@ -43,7 +43,6 @@
 [<img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
 [<img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />][webdevplaylist]
-[<img align="left" alt="Xampp" width="26px" src="https://lh3.googleusercontent.com/proxy/EeUpJfDd8dx0VxIv1jTqlbJ-i-W-ULBo8r9IZ87gxxEhuoJ3PKEwu-KWJ67V2tslniqRaXOdTWBvKxaQqQaL7MYQT8s2uZw2HexQDWnyUgc_tcv8Yyg" />][webdevplaylist]
 [<img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />][webdevplaylist]
 
 <br />
