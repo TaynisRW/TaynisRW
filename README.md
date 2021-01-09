@@ -3,9 +3,9 @@
 
 ## I'm a Gamer, Developer and Teacher!
 - 🔭 I’m currently working on a [Web Development Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Laravel/Vue 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to my personal brand
 - ⚡ Fun fact: I love to listen music and play videogames and development news projects
 
 ### Connect with me:
