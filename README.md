@@ -32,6 +32,7 @@
 [<img align="left" alt="Ajax" width="26px" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />][webdevplaylist]
 [<img align="left" alt="JSON" width="26px" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />][webdevplaylist]
 [<img align="left" alt="CodeIgniter" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />][webdevplaylist]
+[<img align="left" alt="Laravel" width="26px" src="https://elephantstechnology.com/wp-content/uploads/2019/04/laravel-design.png" />][webdevplaylist]
 
 <br />
 
