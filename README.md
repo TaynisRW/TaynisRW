@@ -66,8 +66,8 @@
 <img align="right" alt="ATI Walkers GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
 
 
-[website]: https://atiwalkers.com.mx
-[twitter]: https://twitter.com/WofyRaven
+[website]: https://atiwalkers.com
+[twitter]: https://twitter.com/Taynis_RW
 [youtube]: https://youtube.com/channel/UCWCIPpdGpeND_W44NVxJl6g
 [instagram]: https://instagram.com/ati_walkers
 [linkedin]: https://linkedin.com/in/adrian-manzano-0236241a1
