@@ -1,5 +1,5 @@
 # Hi there, I'm Adrián Manzano - aka [TaynisRW][website] 👋
-<img align="left" alt="atiwalkers.com,x" height="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img align="left" alt="atiwalkers.com,x" height="300px" src="https://i.gifer.com/Jlia.gif"/>
 
 ## I'm a Gamer, Developer and Teacher!
 - 🔭 I’m currently working on a [Web Development Course][website]!
