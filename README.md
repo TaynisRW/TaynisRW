@@ -63,7 +63,7 @@
   <img align="left" alt="Composer" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />
   <img align="left" alt="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
   <img align="left" alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-  <img align="left" alt="Materialize" width="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
+  <img align="left" alt="Materialize" width="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
 </div>
 
 </td></tr></table>
