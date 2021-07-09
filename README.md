@@ -13,7 +13,7 @@
 [<img align="left" alt="ATIWalkers | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/768px-GNOME_Web_logo--2018.svg.png" />][website]
 [<img align="left" alt="ATIWalkers | YouTube" width="22px" src="https://www.gruposur.com/web/wp-content/uploads/2017/11/yt.png" />][youtube]
 [<img align="left" alt="ATIWalkers | Twitter" width="25px" src="https://www.culleraturismo.com/wp-content/uploads/2017/10/b1a3fab214230557053ed1c4bf17b46c-icono-de-twitter-logo-by-vexels.png" />][twitter]
-[<img align="left" alt="ATIWalkers | LinkedIn" width="25px" src="https://aditiva.com.mx/wp-content/uploads/2021/05/linkedlinkedinicon-1320183900851414557.png" />][linkedin]
+[<img align="left" alt="ATIWalkers | LinkedIn" width="30px" src="https://aditiva.com.mx/wp-content/uploads/2021/05/linkedlinkedinicon-1320183900851414557.png" />][linkedin]
 [<img align="left" alt="ATIWalkers | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" />][instagram]
 
 <br />
