@@ -19,7 +19,7 @@
 <br />
 
 ### Languages - Frameworks - Libraries
-<table><tr><td valign="top" width="45%">
+<table><tr><td valign="top" width="40%">
 
 <div align="center">
   <img align="left" alt="PHP" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
@@ -30,7 +30,7 @@
   <img align="left" alt="MongoDB" width="30" src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" />
 </div>
 
-</td><td valign="top" width="20%">
+</td><td valign="top" width="25%">
 
 <div align="center">  
   <img align="left" alt="NEXTJS" width="30" src="https://adelanegara.github.io/img/next_logo.png" />
