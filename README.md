@@ -19,24 +19,34 @@
 <br />
 
 ### Languages - Frameworks - Libraries
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="33%">
+
+<div align="center">
+  <img align="left" alt="PHP" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+  <img align="left" alt="HTML5" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align="left" alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="JS" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <img align="left" alt="MySQL" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="left" alt="MongoDB" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+</div>
+
+</td><td valign="top" width="33%">
 
 <div align="center">  
-  [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][webdevplaylist]
-  [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-  [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-  [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-  [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-  [<img align="left" alt="NEXTJS" width="26px" src="https://adelanegara.github.io/img/next_logo.png" />][webdevplaylist]
-  [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-  [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][webdevplaylist]
-  [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][webdevplaylist]
-  [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-  [<img align="left" alt="jQuery" width="26px" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />][webdevplaylist]
-  [<img align="left" alt="Ajax" width="26px" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />][webdevplaylist]
-  [<img align="left" alt="JSON" width="26px" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />][webdevplaylist]
-  [<img align="left" alt="CodeIgniter" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />][webdevplaylist]
-  [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />][webdevplaylist]
+  <img align="left" alt="NEXTJS" width="26px" src="https://adelanegara.github.io/img/next_logo.png" />
+  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+  <img align="left" alt="jQuery" width="26px" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />
+  <img align="left" alt="CodeIgniter" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />
+  <img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+</div>
+
+</td><td valign="top" width="33%">
+
+<div align="center">  
+  <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="Ajax" width="26px" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />
+  <img align="left" alt="JSON" width="26px" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />
 </div>
 </td></tr></table>
 
@@ -44,15 +54,15 @@
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
-  [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-  [<img align="left" alt="GitHub" width="26px" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />][webdevplaylist]
-  [<img align="left" alt="Linux Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-  [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
-  [<img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />][webdevplaylist]
-  [<img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />][webdevplaylist]
-  [<img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][webdevplaylist]
-  [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][webdevplaylist]
-  [<img align="left" alt="Materialize" width="46px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />][webdevplaylist]
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="GitHub" width="26px" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />
+  <img align="left" alt="Linux Terminal" width="26px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
+  <img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />
+  <img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />
+  <img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />
+  <img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
+  <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
+  <img align="left" alt="Materialize" width="46px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
 </div>
 
 </td></tr></table>
