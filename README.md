@@ -34,8 +34,6 @@
 
 <div align="center">  
   <img align="left" alt="NEXTJS" width="30" src="https://adelanegara.github.io/img/next_logo.png" />
-  <img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="jQuery" width="30" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />
   <img align="left" alt="CodeIgniter" width="30" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />
   <img align="left" alt="Laravel" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
@@ -43,10 +41,12 @@
 </td><td valign="top" width="33%">
 
 <div align="center">  
+  <img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
   <img align="left" alt="Sass" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img align="left" alt="Bootstrap" width="30" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
   <img align="left" alt="Ajax" width="30" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />
   <img align="left" alt="JSON" width="30" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />
+  <img align="left" alt="JQuery" width="30" src="https://www.magentodesign.com.es/wp-content/uploads/2019/11/jq.png" />
 </div>
 </td></tr></table>
 
