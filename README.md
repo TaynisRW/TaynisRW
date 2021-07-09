@@ -44,7 +44,8 @@
 
 <div align="center">  
   <img align="left" alt="Sass" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="Git" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align="left" alt="Bootstrap" width="30" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
+  <img align="left" alt="Git" width="30" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
   <img align="left" alt="Ajax" width="30" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />
   <img align="left" alt="JSON" width="30" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />
 </div>
