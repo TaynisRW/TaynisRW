@@ -3,18 +3,18 @@
 
 ## I'm a Gamer, Developer and Teacher!
 - 🔭 I’m currently working on a [Web Development Course][website]!
-- 🌱 I’m currently learning Laravel/Vue 🤣
+- 🌱 I’m currently learning UI/UX Desing
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to my personal brand
 - ⚡ Fun fact: I love to listen music and play videogames and development news projects
 
 ### Connect with me:
 
-[<img align="left" alt="ATIWalkers | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ATIWalkers | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ATIWalkers | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ATIWalkers | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ATIWalkers | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ATIWalkers | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/768px-GNOME_Web_logo--2018.svg.png" />][website]
+[<img align="left" alt="ATIWalkers | YouTube" width="22px" src="https://www.gruposur.com/web/wp-content/uploads/2017/11/yt.png" />][youtube]
+[<img align="left" alt="ATIWalkers | Twitter" width="22px" src="https://www.culleraturismo.com/wp-content/uploads/2017/10/b1a3fab214230557053ed1c4bf17b46c-icono-de-twitter-logo-by-vexels.png" />][twitter]
+[<img align="left" alt="ATIWalkers | LinkedIn" width="22px" src="https://aditiva.com.mx/wp-content/uploads/2021/05/linkedlinkedinicon-1320183900851414557.png" />][linkedin]
+[<img align="left" alt="ATIWalkers | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" />][instagram]
 
 <br />
 
@@ -46,7 +46,7 @@
 [<img align="left" alt="Wordpress" width="26px" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />][webdevplaylist]
 [<img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />][webdevplaylist]
 [<img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />][webdevplaylist]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][webdevplaylist]
+[<img align="left" alt="Docker" width="46px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][webdevplaylist]
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][webdevplaylist]
 [<img align="left" alt="Materialize" width="46px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />][webdevplaylist]
 
