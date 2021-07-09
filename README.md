@@ -24,8 +24,7 @@
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="NEXTJS" width="26px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />][webdevplaylist]
-[<img align="left" alt="Express" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />][webdevplaylist]
+[<img align="left" alt="NEXTJS" width="26px" src="https://adelanegara.github.io/img/next_logo.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />][webdevplaylist]
@@ -48,7 +47,6 @@
 [<img align="left" alt="SublimeText" width="26px" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />][webdevplaylist]
 [<img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />][webdevplaylist]
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][webdevplaylist]
-[<img align="left" alt="Composer" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />][webdevplaylist]
 [<img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />][webdevplaylist]
 [<img align="left" alt="Materialize" width="26px" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />][webdevplaylist]
 
