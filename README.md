@@ -54,7 +54,7 @@
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
-  <img align="left" alt="Visual Studio Code" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="GitHub" width="30" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />
   <img align="left" alt="Linux Terminal" width="30" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
   <img align="left" alt="Wordpress" width="30" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />
@@ -62,7 +62,7 @@
   <img align="left" alt="Composer" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />
   <img align="left" alt="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
   <img align="left" alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-  <img align="left" alt="Materialize" width="30" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
+  <img align="left" alt="Materialize" width="40" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
 </div>
 
 </td></tr></table>
