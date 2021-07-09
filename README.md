@@ -45,7 +45,6 @@
 <div align="center">  
   <img align="left" alt="Sass" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   <img align="left" alt="Bootstrap" width="30" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
-  <img align="left" alt="Git" width="30" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
   <img align="left" alt="Ajax" width="30" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />
   <img align="left" alt="JSON" width="30" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />
 </div>
@@ -56,10 +55,11 @@
 
 <div align="center">  
   <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <img align="left" alt="SublimeText" width="30" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />
   <img align="left" alt="GitHub" width="30" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />
+  <img align="left" alt="Git" width="30" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
   <img align="left" alt="Linux Terminal" width="30" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
   <img align="left" alt="Wordpress" width="30" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />
-  <img align="left" alt="SublimeText" width="30" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />
   <img align="left" alt="Composer" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />
   <img align="left" alt="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
   <img align="left" alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
