@@ -47,7 +47,7 @@
   <img align="left" alt="Materialize" width="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
   <img align="left" alt="Ajax" width="30" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />
   <img align="left" alt="JSON" width="30" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />
-  <img align="left" alt="JQuery" width="30" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" />
+  <img align="left" alt="JQuery" width="30" src="https://cdn2.howtodoinjava.com/wp-content/uploads/jquery_logo.png" />
 </div>
 </td></tr></table>
 
