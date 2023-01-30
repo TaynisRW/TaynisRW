@@ -1,16 +1,15 @@
-# Hi there, I'm Adrián Manzano - aka [TaynisRW][website] 👋
+# Hi there, I'm Adrián Manzano - aka [TaynisRW] 👋
 <img align="left" alt="atiwalkers.com" height="300px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a63c4261218031.5a676896b58d4.gif"/>
 
 ## I'm a Gamer, Developer and Teacher!
-- 🔭 I’m currently working on a [Web Development Course][website]!
-- 🌱 I’m currently learning UI/UX Desing
+- 🔭 I’m currently working on a [Design Web Course][website]!
+- 🌱 I’m currently working on UI/UX Desing
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to my personal brand
-- ⚡ Fun fact: I love to listen music and play videogames and development news projects
+- 🥅 2023 Goals: Contribute more to my personal brand
+- ⚡ Fun fact: I love to listen music and play videogames and design news projects
 
 ### Connect with me:
 
-[<img align="left" alt="ATIWalkers | Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/GNOME_Web_logo--2018.svg/768px-GNOME_Web_logo--2018.svg.png" />][website]
 [<img align="left" alt="ATIWalkers | YouTube" width="22px" src="https://www.gruposur.com/web/wp-content/uploads/2017/11/yt.png" />][youtube]
 [<img align="left" alt="ATIWalkers | Twitter" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />][twitter]
 [<img align="left" alt="ATIWalkers | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
@@ -33,7 +32,6 @@
 </td><td valign="top" width="22%">
 
 <div align="center">  
-  <img align="left" alt="NEXTJS" width="30" src="https://adelanegara.github.io/img/next_logo.png" />
   <img align="left" alt="CodeIgniter" width="30" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />
   <img align="left" alt="Laravel" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
 </div>
@@ -55,6 +53,7 @@
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
+  <img align="left" alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
   <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
   <img align="left" alt="SublimeText" width="30" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />
   <img align="left" alt="GitHub" width="30" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />
@@ -63,29 +62,15 @@
   <img align="left" alt="Wordpress" width="30" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />
   <img align="left" alt="Composer" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />
   <img align="left" alt="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-  <img align="left" alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 </div>
 
 </td></tr></table>
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [Presentación de la empresa ATI WALKERS](https://www.youtube.com/watch?v=r0S7f3x7sqE)
-<!-- YOUTUBE:END -->
-
 ---
 
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<img align="left" alt="TaynisRW GitHub Stats" width="410px" src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">
+<img align="right" alt="TaynisRW GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
 
----
-
-<img align="left" alt="ATI Walkers GitHub Stats" width="410px" src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">
-<img align="right" alt="ATI Walkers GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
-
-
-[website]: https://atiwalkers.com
 [twitter]: https://twitter.com/Taynis_RW
 [youtube]: https://youtube.com/channel/UCWCIPpdGpeND_W44NVxJl6g
 [instagram]: https://instagram.com/ati_walkers
