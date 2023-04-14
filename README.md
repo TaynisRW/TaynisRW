@@ -1,81 +1,24 @@
-# Hi there, I'm Adrián Manzano - aka [TaynisRW] 👋
-<img align="left" alt="atiwalkers.com" height="300px" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/a63c4261218031.5a676896b58d4.gif"/>
+# 💫 About Me:
+🌱 I’m currently working on UI/UX Desing<br>👯 I’m looking to collaborate with other content creators<br>🥅 2023 Goals: Contribute more to my personal brand<br>⚡ Fun fact: I love to listen music, play videogames and design news projects
 
-## I'm a Gamer, Developer and Teacher!
-- 🔭 I’m currently working on a [Design Web Course][website]!
-- 🌱 I’m currently working on UI/UX Desing
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to my personal brand
-- ⚡ Fun fact: I love to listen music and play videogames and design news projects
 
-### Connect with me:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Adrian Manzano) 
 
-[<img align="left" alt="ATIWalkers | YouTube" width="22px" src="https://www.gruposur.com/web/wp-content/uploads/2017/11/yt.png" />][youtube]
-[<img align="left" alt="ATIWalkers | Twitter" width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" />][twitter]
-[<img align="left" alt="ATIWalkers | LinkedIn" width="30px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />][linkedin]
-[<img align="left" alt="ATIWalkers | Instagram" width="22px" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" />][instagram]
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TaynisRW&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TaynisRW&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=TaynisRW&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### Languages - Frameworks - Libraries
-<table><tr><td valign="top" width="43%">
-
-<div align="center">
-  <img align="left" alt="PHP" width="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-  <img align="left" alt="HTML5" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img align="left" alt="CSS3" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img align="left" alt="JS" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="MySQL" width="40" src="https://cdnlogo.com/logos/m/10/mysql.svg" />
-  <img align="left" alt="MongoDB" width="30" src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" />
-</div>
-
-</td><td valign="top" width="22%">
-
-<div align="center">  
-  <img align="left" alt="CodeIgniter" width="30" src="https://cdn1.iconfinder.com/data/icons/logos-3/304/codeigniter-512.png" />
-  <img align="left" alt="Laravel" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
-</div>
-
-</td><td valign="top" width="35%">
-
-<div align="center">  
-  <img align="left" alt="React" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="Sass" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="Bootstrap" width="30" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" />
-  <img align="left" alt="Materialize" width="50" src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" />
-  <img align="left" alt="Ajax" width="30" src="https://tecnologiadigital360.cl/wp-content/uploads/2019/07/260190.png" />
-  <img align="left" alt="JSON" width="30" src="https://icon-library.com/images/json-icon-png/json-icon-png-28.jpg" />
-  <img align="left" alt="JQuery" width="30" src="https://static.wikia.nocookie.net/programa/images/6/62/Jquery.png/revision/latest?cb=20161203132816&path-prefix=es" />
-</div>
-</td></tr></table>
-
-### Tools
-<table><tr><td valign="top" width="100%">
-
-<div align="center">  
-  <img align="left" alt="Figma" width="30" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
-  <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="left" alt="SublimeText" width="30" src="https://wasdsoft.files.wordpress.com/2015/11/sublime.png?w=1024&h=1024&crop=1" />
-  <img align="left" alt="GitHub" width="30" src="https://seeklogo.com/images/G/github-logo-45146A3FBE-seeklogo.com.png" />
-  <img align="left" alt="Git" width="30" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" />
-  <img align="left" alt="Linux Terminal" width="30" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" />
-  <img align="left" alt="Wordpress" width="30" src="https://cdn3.iconfinder.com/data/icons/social-badges-2/512/wordpress.png" />
-  <img align="left" alt="Composer" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/composer-logo-png-transparent.png" />
-  <img align="left" alt="Docker" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-</div>
-
-</td></tr></table>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TaynisRW&icon=3&color=4)](https://visitcount.itsvg.in)
 
-<img align="left" alt="TaynisRW GitHub Stats" width="410px" src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&hide=issues">
-<img align="right" alt="TaynisRW GitHub Stats" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&show_icons=true&hide_border=true&theme=tokyonight&layout=compact">
-
-[twitter]: https://twitter.com/Taynis_RW
-[youtube]: https://youtube.com/channel/UCWCIPpdGpeND_W44NVxJl6g
-[instagram]: https://instagram.com/ati_walkers
-[linkedin]: https://linkedin.com/in/adrian-manzano-0236241a1
-[webdevplaylist]: https://www.youtube.com/playlist?list=
-[jsplaylist]: https://www.youtube.com/playlist?list=
-[cssplaylist]: https://www.youtube.com/playlist?list=
-[reactplaylist]: https://www.youtube.com/playlist?list= 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
