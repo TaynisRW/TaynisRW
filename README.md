@@ -20,7 +20,7 @@
 
 Soy un desarrollador apasionado por la intersección entre el **Diseño Centrado en el Usuario (UI/UX)** y la **Ingeniería de Software**. Mi enfoque combina la precisión técnica con la estética visual para crear aplicaciones web y móviles de alto impacto.
 
-Actualmente, estoy expandiendo mis capacidades en **Python** para el desarrollo de herramientas de automatización, análisis de datos y seguridad digital (OSINT), mientras lidero proyectos de arquitectura de software como **Ray-T**.
+Actualmente, estoy expandiendo mis capacidades en **Python** para el desarrollo de herramientas de automatización, análisis de datos y seguridad digital (OSINT), mientras lidero proyectos de arquitectura de software como **Aether Labs**.
 
 ---
 
