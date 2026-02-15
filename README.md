@@ -102,11 +102,13 @@ Integro modelos de **IA Generativa** y scripts de **Python** para automatizar pr
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://streaks-stats.demolab.com/?user=TaynisRW&theme=tokyonight&hide_border=true&dates=FFFFFF" alt="streak graph" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streaks-stats.demolab.com/?user=TaynisRW&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
