@@ -99,21 +99,30 @@ Integro modelos de **IA Generativa** y scripts de **Python** para automatizar pr
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <a href="https://github.com/TaynisRW?tab=repositories">
+    <img src="https://img.shields.io/github/repositories/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=38B2AC&logoColor=white" alt="Repos" />
+  </a>
+  <a href="https://github.com/TaynisRW">
+    <img src="https://img.shields.io/github/followers/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=7aa2f7&logoColor=white" alt="Followers" />
+  </a>
+  <a href="https://github.com/TaynisRW">
+    <img src="https://img.shields.io/github/stars/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=e0af68&logoColor=white" alt="Stars" />
+  </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=TaynisRW&theme=tokyonight&hide_border=true" alt="streak graph" />
+  <img src="https://streaks-stats.demolab.com/?user=TaynisRW&theme=tokyonight&hide_border=true&dates=FFFFFF" alt="streak graph" />
 </div>
 
 ---
+
 <div align="center">
-  <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=TaynisRW&icon=5&color=4" />
-  </p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaynisRW&count_bg=%2338B2AC&title_bg=%231A1B26&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" alt="hits" />
+  
   <p>Open to collaboration on <strong>FinTech, Security, and Creative Media</strong> projects.</p>
 </div>
