@@ -99,30 +99,25 @@ Integro modelos de **IA Generativa** y scripts de **Python** para automatizar pr
 
 ---
 
-### 📊 Engineering Metrics
+### 📊 Engineering Hub
 
 <div align="center">
   <a href="https://github.com/TaynisRW?tab=repositories">
-    <img src="https://img.shields.io/github/repositories/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=38B2AC&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/Repositories-Browse_Code-38B2AC?style=for-the-badge&logo=github&labelColor=1a1b26&logoColor=white" alt="Repos" />
   </a>
-  <a href="https://github.com/TaynisRW">
-    <img src="https://img.shields.io/github/followers/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=7aa2f7&logoColor=white" alt="Followers" />
+  
+  <a href="https://github.com/TaynisRW?tab=followers">
+    <img src="https://img.shields.io/github/followers/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=7aa2f7&logoColor=white&label=Network" alt="Followers" />
   </a>
+
   <a href="https://github.com/TaynisRW">
-    <img src="https://img.shields.io/github/stars/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=e0af68&logoColor=white" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/TaynisRW?style=for-the-badge&logo=github&labelColor=1a1b26&color=e0af68&logoColor=white&label=Stars" alt="Stars" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streaks-stats.demolab.com/?user=TaynisRW&theme=tokyonight&hide_border=true&dates=FFFFFF" alt="streak graph" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTaynisRW&count_bg=%2338B2AC&title_bg=%231A1B26&icon=github.svg&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" alt="hits" />
-  
-  <p>Open to collaboration on <strong>FinTech, Security, and Creative Media</strong> projects.</p>
+  <p><em>Focusing on High-Availability Architecture & User-Centric Design.</em></p>
+  <p>Open to collaboration on <strong>FinTech, Security (OSINT), and Creative Media</strong> projects.</p>
 </div>
