@@ -83,14 +83,30 @@ Mi flujo de trabajo integra herramientas líderes en la industria para asegurar 
 
 ---
 
+### 🧠 AI & Computational Intelligence
+> *"Leveraging machine learning to build smarter, adaptive interfaces."*
+
+Integro modelos de **IA Generativa** y scripts de **Python** para automatizar procesos complejos y enriquecer la arquitectura de software.
+* **AI-Augmented Development:** Uso de LLMs para optimización de código y refactorización.
+* **Data Analysis:** Implementación de algoritmos para interpretación de datos (OSINT/Security context).
+* **Smart UI:** Exploración de interfaces adaptativas que responden al comportamiento del usuario.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-Coming_Soon-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python_Automation-Active-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Exploring-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
+
+---
+
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&theme=transparent&hide_border=true&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC&include_all_commits=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&layout=compact&theme=transparent&hide_border=true&title_color=38B2AC&text_color=ffffff" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TaynisRW&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaynisRW&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaynisRW&theme=transparent&hide_border=true&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="streak graph" />
+  <img src="https://streaks-stats.demolab.com/?user=TaynisRW&theme=tokyonight&hide_border=true&dates=FFFFFF" alt="streak graph" />
 </div>
 
 ---
